@@ -10,6 +10,7 @@ Scenario: Inventory management
 http://localhost:8081/ws/inventory.wsdl
 ```
 
+![img.png](img.png)
 
 # EJEMPLO
 
